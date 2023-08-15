@@ -20,3 +20,18 @@ public class GithubCicdActionsApplication {
 	}
 
 }
+
+/*
+63  git add src
+64  git add pom.xml
+65  git status
+66  git commit -m "inital code changes"
+67  git branch -M master
+68  git remote add origin https://github.com/praddesh/springboot_cicd.git
+69  git push -u origin master
+70  git pull
+71  git log
+72  ls
+73  git pull --rebase origin
+
+*/
